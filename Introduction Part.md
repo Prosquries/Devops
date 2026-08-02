@@ -11,7 +11,7 @@
 	5. **Testing**
 	6. **Deployment**
 	7. **Maintenance**
-# 1.1 Models Of SDLC
+### 1.1 Models Of SDLC
 
 1. **Waterfall Model**l  :-  
 	1. Very old model and used only for small projects
@@ -38,7 +38,6 @@
 	3. Suitable for small or experimental projects.
 	4. Flexible and easy to implement.
 	5. High risk due to lack of proper planning. 
-
 ## 2.  Devops Life Cycle 
 
 To Avoid the communications between ops team dev team (DevOps was introduced to bridge the communication gap between the Development (Dev) and Operations (Ops) teams. The Development team follows Agile methodology, where changes are made frequently in short iterations, while the Operations team traditionally followed the Waterfall model, making deployments slower and more difficult. Due to continuous changes and a lack of clear coordination, the Ops team often struggled to deploy applications efficiently. DevOps improves collaboration, automation, and communication, enabling faster and more reliable software deployment.)
