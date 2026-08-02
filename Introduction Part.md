@@ -59,7 +59,7 @@ Here are some stages of the Devops life cycle
 
 That is how Devops life cycle works 
 
-![Preview Page](images/1.png)
+![Preview Page](Images/1.png)
 
 
 
